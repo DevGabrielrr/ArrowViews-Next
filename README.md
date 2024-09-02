@@ -4,7 +4,7 @@ O Arrow Views é um projeto desenvolvido para avaliar e aprimorar o conhecimento
 No Arrow Views, os usuários podem explorar diferentes temporadas e episódios de uma série específica. A interface permite que os usuários escolham a temporada desejada e visualizem os episódios correspondentes de forma clara e dinâmica. A escolha da temporada atualiza a visualização dos episódios, proporcionando uma experiência fluida e envolvente.
 Esse projeto foi criado como uma oportunidade para consolidar o aprendizado em desenvolvimento com Next.js e React, implementando práticas avançadas de consumo de APIs e gerenciamento de estados.
 
-<!-- https://github.com/user-attachments/assets/58cb47c2-c185-4ab0-9e25-1eb948b08a73 -->
+https://github.com/user-attachments/assets/8d6ec932-bb0c-4f10-8d33-24e22f24e204
 
 ### Tecnologias Utilizadas
 
